@@ -1,7 +1,7 @@
 {
   "name": "sahu-islamic-chat-bot",
   "version": "1.0.0",
-  "description": "Developed by SHAHADAT SAHU • Islamic Messenger Chat Bot",
+  "description": "Developed by SOHAN AHMED • Islamic Messenger Chat Bot",
   "main": "Sahu.js",
   "engines": {
     "node": "20.x",
