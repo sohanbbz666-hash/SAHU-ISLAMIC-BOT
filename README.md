@@ -141,7 +141,7 @@ This makes the setup extremely easy, especially for beginners.
 
 <!-- WhatsApp -->
 <p>
-<a href="https://wa.me/+8801882333052">
+<a href="https://wa.me/+919339828040">
   <img 
     src="https://img.shields.io/badge/WhatsApp-Click%20Here-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
     height="45px">
