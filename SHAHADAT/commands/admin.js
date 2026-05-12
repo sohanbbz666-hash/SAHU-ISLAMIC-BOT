@@ -7,7 +7,7 @@ module.exports.config = {
  name: "admin",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "SOHAN AHMED",
  description: "Show Owner Info",
  commandCategory: "Info",
  usages: "admin",
@@ -19,8 +19,8 @@ module.exports.run = async ({ api, event }) => {
  const conf = global.config;
  const mediaLink = conf.AuthorPhoto;
 
- const date = moment().tz("Asia/Dhaka").format("DD/MM/YYYY");
- const time = moment().tz("Asia/Dhaka").format("hh:mm:ss A");
+ const date = moment().tz("Asia/Katwa").format("DD/MM/YYYY");
+ const time = moment().tz("Asia/Katwa").format("hh:mm:ss A");
 
  const body = `
 👑 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
